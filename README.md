@@ -33,3 +33,4 @@ Unet++ with ELU activision as Decoder and EfficientNetB0 as  Encoder
 ## Results
 Performance comparision on covid-segmentation dataset.
 ![](https://github.com/mahdiasdzd/ELUnet---and-his-Encoder/blob/main/outputNas.xlsx)
+![](https://github.com/mahdiasdzd/ELUnet---and-his-Encoder/blob/main/Model-Results-NAS.png)
